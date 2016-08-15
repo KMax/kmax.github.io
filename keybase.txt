@@ -1,1 +1,68 @@
+==================================================================
+https://keybase.io/kolchinmax
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of http://kolchinmax.ru
+  * I am kolchinmax (https://keybase.io/kolchinmax) on keybase.
+  * I have a public key with fingerprint E2E9 CA55 9975 53BA 74E2  BC2E 6832 AC92 4914 7C29
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010151e3c9aa917a6f004c7362852169473836a7adc83c3af1fed36f06c9b345f6d10a",
+            "fingerprint": "e2e9ca55997553ba74e2bc2e6832ac9249147c29",
+            "host": "keybase.io",
+            "key_id": "6832ac9249147c29",
+            "kid": "010151e3c9aa917a6f004c7362852169473836a7adc83c3af1fed36f06c9b345f6d10a",
+            "uid": "0a2b8263dceef3347d50086b79b86419",
+            "username": "kolchinmax"
+        },
+        "service": {
+            "hostname": "kolchinmax.ru",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471284169,
+    "expire_in": 157680000,
+    "prev": "e8125db4d69b30c1452eb450555a3522e15de3ee9e1443e4fc61f55285ba3946",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJbiE1RGD7HuB6XTEoJGevBbSbttddlX5CYUoRSRMhp7bXXObObM3sf
+++xzDIMil4nx4tKgKTxMcplC7rc4NAxeGJJhJpeSu2ToyJC1XZ54tF5W61/f9/3f
+//Vf7V8UiUVXdnQNPFD75nb05uVd2cj8Y0UtNcDy7OXArAGV4uclUrbIBPFKxwYm
+UKACCRSIG4wZUGM0oSiYa4iqOlEhNbCGdESZxmyuI45YAiaEjSSKcsNCmCSoDRUG
+ykDCcZPCT/uOG0hZoQqDM0IMQyMEWUzDQrW4KqiOVMYNFRsQa1w1JLHCy4QMac5i
+GTHe8WRNPuI/7f0D/599Z3/JMdXSVYpsLkQCIazZRFF0ammGpVMMw77ZjPBdViVC
+r16KVzhuFasGq8qArOccLsJow1n+woz3s5Ke9r3A415KflUEQdoMmcHydAhdJqz4
+b5G45bi2TFIScsLPOJ4LTCiRPHBCVRkCVHUs5ysDojrt+CLuhAiiUV2RJ2wjcmH+
+OlSJbWGbymkVDjFRhYWJQghhiKiqgMQWSAhDQIyRwAlOYYIQGZ7FkIEpCMda6nrA
+JNImS0rJjJN0WZD1BViVv7S4eyQai/Ts0S3csEisz8A/ezd3ba/vY45OK4Z7c6NO
+dEymsa66BafsG/U7e30pbXx+ILlgTmWuuXZQkz8T7Lw+YcC0WZtys9dQfm/rx8K7
+EmN0Pvm2Zej2r6PN3nX2O5yfVQxaTrZ2PXxk9ht0/8Pp7MX1x2v2pjrrCvrh+j3r
+dq8xG6bXNTUa08UetUAaBk+K3G0URz69Lxn5pjTvZ+4sbR7R91v5hXa678vGYRtu
+HSl9cmVLiXnwRvSVMfHlktYJD7bUj/t4sPO8OyVf9bT0ebrt6eFooWNIee25WOfn
+cyMWLRy7ojF1ZsfZ+KGN+7e1OTfjYOX26vazDYunBNemlg+tfF0Y/m3Y480fjr34
+OuTk6qK1rb3nrZ+RffYDje9JNQ==
+=5UiI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kolchinmax
+
+==================================================================
