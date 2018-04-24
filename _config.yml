@@ -17,8 +17,12 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+sass:
+  sass_dir: ./_scss
+
 google_analytics: "UA-50833208-1"
 
+safe: true
 exclude: [CNAME, Gemfile, Gemfile.lock, .gitignore, .idea, docker-compose.yml]
 
 # Content variables
