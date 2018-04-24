@@ -1,5 +1,7 @@
 theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
+  - jekyll-remote-theme
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
