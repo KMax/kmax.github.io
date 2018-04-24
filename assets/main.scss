@@ -1,0 +1,36 @@
+---
+---
+
+@import "whiteglass";
+
+.profile {
+  display: table;
+}
+.profile .column {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 15px;
+}
+.profile .profile-desc {
+  text-align: center;
+}
+.profile img.avatar {
+  margin: 10px;
+  width: 150px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px
+}
+.social-links {
+  list-style: none;
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+  text-align: center;
+}
+.social-icon {
+  width: 16px;
+}
+.nav-links {
+  display: inline-block;
+}

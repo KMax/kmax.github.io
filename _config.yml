@@ -1,10 +1,26 @@
-name: "Maxim Kolchin"
-markdown: redcarpet
-highlighter: pygments
-permalink: :title
-exclude: [README.md, LICENSE, Makefile]
+theme: jekyll-whiteglass
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
 
-# Information for the Atom feed
-gereksiz:
-   author: "Maxim Kolchin"
-   email: "kolchinmax@gmail.com"
+permalink: /:year/:month/:day/:title/
+paginate_path: /posts/:num/
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+google_analytics: "UA-50833208-1"
+
+exclude: [CNAME, Gemfile, Gemfile.lock, .gitignore, .idea, docker-compose.yml]
+
+# Content variables
+author: Maxim Kolchin
+title: Maxim Kolchin
