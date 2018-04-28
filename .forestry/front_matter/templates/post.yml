@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/a-practical-review-of-non-rdf-rdf-tools.md
 hide_body: false
 is_partial: false
 fields:
