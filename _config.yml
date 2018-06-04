@@ -24,7 +24,7 @@ sass:
 google_analytics: "UA-50833208-1"
 
 safe: true
-exclude: [CNAME, Gemfile, Gemfile.lock, .gitignore, .idea, docker-compose.yml]
+exclude: [vendor, CNAME, Gemfile, Gemfile.lock, .gitignore, .idea, docker-compose.yml]
 
 # Content variables
 author: Maxim Kolchin
