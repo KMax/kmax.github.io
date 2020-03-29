@@ -27,5 +27,5 @@ safe: true
 exclude: [vendor, CNAME, Gemfile, Gemfile.lock, .gitignore, .idea, docker-compose.yml]
 
 # Content variables
-author: Maxim Kolchin
-title: Maxim Kolchin
+author: Maksim Kolchin
+title: Maksim Kolchin
