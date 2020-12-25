@@ -1,3 +1,8 @@
+# Site variables
+
+url: "https://kolchinmax.ru"
+
+# Others
 remote_theme: yous/whiteglass
 plugins:
   - jekyll-remote-theme

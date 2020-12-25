@@ -264,6 +264,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-remote-theme
+  jekyll-sitemap
   jekyll-whiteglass
 
 BUNDLED WITH
